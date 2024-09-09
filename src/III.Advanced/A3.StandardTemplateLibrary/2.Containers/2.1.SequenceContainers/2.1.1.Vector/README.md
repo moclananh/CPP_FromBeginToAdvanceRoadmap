@@ -1,0 +1,1 @@
+std::vector là một lớp trong thư viện chuẩn C++ (<vector>) được sử dụng để quản lý các mảng động có thể thay đổi kích thước một cách linh hoạt. Nó cung cấp nhiều tính năng hữu ích để làm việc với các bộ sưu tập phần tử, bao gồm các phương thức thêm, xóa, truy cập và thay đổi các phần tử.

@@ -1,0 +1,1 @@
+std::queue là một container trong thư viện chuẩn C++ (<queue>) thực hiện cấu trúc dữ liệu hàng đợi (queue), mô phỏng cách hoạt động của hàng đợi trong thực tế. Hàng đợi là một cấu trúc dữ liệu tuân theo nguyên tắc "First In First Out" (FIFO), tức là phần tử được thêm vào đầu tiên sẽ được lấy ra đầu tiên.

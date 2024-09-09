@@ -1,0 +1,1 @@
+free là một hàm trong thư viện chuẩn của C và C++ được sử dụng để giải phóng bộ nhớ đã được cấp phát động thông qua malloc, calloc, hoặc realloc. Khi bạn không còn cần sử dụng vùng nhớ được cấp phát nữa, bạn nên giải phóng nó để tránh rò rỉ bộ nhớ (memory leak).

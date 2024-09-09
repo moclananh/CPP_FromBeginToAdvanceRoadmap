@@ -1,0 +1,1 @@
+Smart pointer (con trỏ thông minh) trong C++ là một lớp template giúp quản lý vòng đời của đối tượng được trỏ tới. Chúng tự động giải phóng bộ nhớ khi không còn cần thiết, giảm thiểu khả năng rò rỉ bộ nhớ (memory leak) và các lỗi truy cập bộ nhớ không hợp lệ (dangling pointers).

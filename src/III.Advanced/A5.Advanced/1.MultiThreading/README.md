@@ -1,0 +1,1 @@
+Đa luồng là một tính năng cho phép thực hiện đồng thời hai hoặc nhiều phần của một chương trình để tận dụng tối đa CPU. Mỗi phần của một chương trình như vậy được gọi là một luồng. Vì vậy, luồng là các tiến trình nhẹ trong một tiến trình.

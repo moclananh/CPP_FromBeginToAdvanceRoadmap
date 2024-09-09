@@ -1,0 +1,1 @@
+std::sregex_token_iterator là một công cụ mạnh mẽ trong C++ để duyệt qua các token trong một chuỗi dựa trên một biểu thức chính quy (regular expression). Nó có thể được sử dụng để tách chuỗi, tìm kiếm các phần tử cụ thể hoặc loại bỏ các phần tử không cần thiết.

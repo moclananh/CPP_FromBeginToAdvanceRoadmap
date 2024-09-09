@@ -1,0 +1,1 @@
+The loss of type and dimensions of an array is known as decay of an array. This generally occurs when we pass the array into function by value or pointer. What it does is, it sends first address to the array which is a pointer, hence the size of array is not the original one, but the one occupied by the pointer in the memory.

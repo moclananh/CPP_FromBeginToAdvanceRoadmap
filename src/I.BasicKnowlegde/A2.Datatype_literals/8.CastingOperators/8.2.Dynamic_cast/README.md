@@ -1,0 +1,1 @@
+dynamic_cast là một công cụ mạnh mẽ trong C++ dùng để thực hiện việc chuyển kiểu (casting) an toàn giữa các con trỏ hoặc tham chiếu tới các đối tượng của các lớp có quan hệ kế thừa. dynamic_cast chủ yếu được sử dụng trong các hệ thống đa hình (polymorphism), nơi bạn muốn chuyển kiểu từ con trỏ của lớp cơ sở tới con trỏ của lớp dẫn xuất hoặc ngược lại một cách an toàn.

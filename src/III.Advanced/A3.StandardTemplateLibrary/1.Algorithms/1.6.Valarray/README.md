@@ -1,0 +1,1 @@
+valarray là một lớp trong thư viện chuẩn C++ (<valarray>) được thiết kế để thao tác với các mảng số học. Nó cung cấp các phương thức và toán tử mạnh mẽ để thực hiện các phép toán phần tử trên mảng một cách hiệu quả.

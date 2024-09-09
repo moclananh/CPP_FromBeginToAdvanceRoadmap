@@ -1,0 +1,1 @@
+calloc là một hàm trong thư viện chuẩn C, tương tự như malloc, được sử dụng để cấp phát bộ nhớ động. Sự khác biệt chính giữa calloc và malloc là calloc khởi tạo vùng nhớ được cấp phát về 0, trong khi malloc không khởi tạo vùng nhớ này.

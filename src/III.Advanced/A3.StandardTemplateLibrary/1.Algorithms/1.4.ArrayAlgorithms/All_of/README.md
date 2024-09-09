@@ -1,0 +1,1 @@
+all_of() Hàm này hoạt động trên toàn bộ phạm vi các phần tử mảng và có thể tiết kiệm thời gian chạy vòng lặp để kiểm tra từng phần tử một. Nó kiểm tra một thuộc tính nhất định trên mọi phần tử và trả về true khi mỗi phần tử trong phạm vi thỏa mãn thuộc tính đã chỉ định, nếu không thì trả về false.

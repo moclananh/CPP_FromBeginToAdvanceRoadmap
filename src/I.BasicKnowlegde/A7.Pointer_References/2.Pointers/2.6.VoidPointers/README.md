@@ -1,0 +1,1 @@
+Con trỏ kiểu void (void pointer) là một loại con trỏ đặc biệt có thể trỏ đến bất kỳ kiểu dữ liệu nào. Vì nó không có kiểu dữ liệu cụ thể, con trỏ void rất linh hoạt và thường được sử dụng trong các tình huống cần sự trừu tượng hóa cao.

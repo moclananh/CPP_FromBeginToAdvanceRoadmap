@@ -1,0 +1,1 @@
+Trong C++, một functor (hay còn gọi là function object) là một đối tượng có thể được gọi như một hàm. Điều này đạt được bằng cách quá tải toán tử gọi hàm operator(). Functors cho phép các đối tượng mang trạng thái (state) có thể hành xử giống như hàm, điều này rất hữu ích trong nhiều trường hợp, chẳng hạn như khi làm việc với các thuật toán trong thư viện chuẩn (STL).
